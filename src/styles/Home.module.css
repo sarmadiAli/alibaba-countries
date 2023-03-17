@@ -1,8 +1,4 @@
-.main {
-  min-width: var(--min-width);
-  max-width: var(--max-width);
-  margin: 10px auto;
-}
+
 
 .card {
   background: var(--bg-element);
@@ -37,6 +33,7 @@
   .cards {
     grid-template-columns: repeat(1, 1fr);
   }
+
 }
 @media (min-width: 1280px) {
   .cards {

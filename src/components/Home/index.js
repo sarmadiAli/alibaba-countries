@@ -101,7 +101,6 @@ export default function HomeContainer({
                 {
                     search(countries)?.map((ele, _ind) => (
                         <div data-testid="countriesCart" className={homeStyle.card} key={_ind} onClick={() => {
-                            console.log(ele)
                             router.push({
                                 pathname: '/country/[code]',
                                 query: {
