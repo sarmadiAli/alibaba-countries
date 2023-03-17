@@ -1,0 +1,26 @@
+.header {
+  padding: 30px 0;
+  background-color: var(--bg-element);
+  box-shadow: 0px 2px 5px -4px rgb(0 0 0 / 75%);
+}
+.headerMain {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  min-width: var(--min-width);
+  max-width: var(--max-width);
+}
+.toggleMode {
+  display: flex;
+  align-items: center;
+}
+.faMoonIcon {
+  display: flex;
+  align-items: center;
+  width: 15px;
+  margin-right: 10px;
+  text-align: center;
+}
+.modeTitel {
+  cursor: pointer;
+}
