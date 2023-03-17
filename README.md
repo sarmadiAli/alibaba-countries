@@ -10,9 +10,9 @@ This is a sample Next.js project that has been dockerized for easy deployment.
 
 
 ## Installation
-1.Clone the repository: git clone https://github.com/<username>/<repository-name>.git
-2.Navigate to the project directory: cd <repository-name>
-3.Build the Docker image: docker build -t <docker-image-name> .
+- Clone the repository: git clone https://github.com/sarmadiAli/alibaba-countries
+- Navigate to the project directory: cd <repository-name>
+- Build the Docker image: docker build -t <docker-image-name> .
 
 
 
