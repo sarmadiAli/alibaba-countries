@@ -4,9 +4,9 @@
 This is a sample Next.js project that has been dockerized for easy deployment.
 
 ## Technologies Used
--Next.js
--jest
--Docker
+- Next.js
+- jest
+- Docker
 
 
 ## Installation
